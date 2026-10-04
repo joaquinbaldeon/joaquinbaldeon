@@ -1,7 +1,7 @@
 # Hello, I'm Joaquin.
 
 C++ & Competitive Programming student from Peru 🇵🇪  
-Building **BytePath** and learning algorithms, Rust & software engineering.
+Building **BytePath** and learning algorithms, Rust, and software engineering.
 
 ---
 
@@ -10,7 +10,7 @@ Building **BytePath** and learning algorithms, Rust & software engineering.
 - Student interested in Computer Science
 - Focused on C++ and Competitive Programming
 - Building [BytePath](https://github.com/joaquinbaldeon/bytepath)
-- Currently learning Rust and other lenguages
+- Currently learning Rust and exploring software engineering
 - Interested in algorithms, AI/ML, DevOps & MLOps
 
 ## Languages & Tools
