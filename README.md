@@ -19,11 +19,12 @@ Building **BytePath** and learning algorithms, Rust, and software engineering.
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,git,github,linux" />
 </p>
 
-## Certifications
-- **C++ Fundamentals** | Coddy [https://coddy.tech/certifications/es/dAV8jx-cpp-GqRKk4]
-- **Logic & Flow** | Coddy [https://coddy.tech/certifications/es/dAV8jx-cpp-MVHUBJ]
-- **Python Fundamentals** | Coddy [https://coddy.tech/certifications/es/dAV8jx-python-ZP9neU]
-- **Object-Oriented Programming with Python** | Coddy [https://coddy.tech/certifications/es/dAV8jx-python-XwYOnQ]
+##  Certifications
+
+- [**C++ Fundamentals**](https://coddy.tech/certifications/es/dAV8jx-cpp-GGRkK4) — Coddy
+- [**Logic & Flow**](https://coddy.tech/certifications/es/dAV8jx-cpp-MVHUBJ) — Coddy
+- [**Python Fundamentals**](https://coddy.tech/certifications/es/dAV8jx-python-ZP9neU) — Coddy
+- [**Object-Oriented Programming with Python**](https://coddy.tech/certifications/es/dAV8jx-python-XwYOnQ) — Coddy
 
 ## Featured Project
 
