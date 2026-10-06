@@ -21,7 +21,7 @@ Building **BytePath** and learning algorithms, Rust, and software engineering.
 
 ##  Certifications
 
-- [**C++ Fundamentals**](https://coddy.tech/certifications/es/dAV8jx-cpp-GGRkK4) — Coddy
+- [**C++ Fundamentals**](https://coddy.tech/certifications/es/dAV8jx-cpp-GqRKk4) — Coddy
 - [**Logic & Flow**](https://coddy.tech/certifications/es/dAV8jx-cpp-MVHUBJ) — Coddy
 - [**Python Fundamentals**](https://coddy.tech/certifications/es/dAV8jx-python-ZP9neU) — Coddy
 - [**Object-Oriented Programming with Python**](https://coddy.tech/certifications/es/dAV8jx-python-XwYOnQ) — Coddy
