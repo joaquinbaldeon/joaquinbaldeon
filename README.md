@@ -19,6 +19,12 @@ Building **BytePath** and learning algorithms, Rust, and software engineering.
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,git,github,linux" />
 </p>
 
+## Certifications
+- **C++ Fundamentals** — Coddy
+- **Logic & Flow** — Coddy
+- **Python Fundamentals** — Coddy
+- **Object-Oriented Programming with Python** — Coddy
+
 ## Featured Project
 
 ### BytePath
