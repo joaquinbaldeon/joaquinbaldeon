@@ -11,7 +11,7 @@ Building BytePath and exploring algorithms, AI/ML, and software engineering.
 - Focused on C++ and Competitive Programming
 - Running Fedora because it looks cool
 - Building [BytePath](https://github.com/joaquinbaldeon/bytepath)
-- Currently learning Rust and exploring software engineering
+- Currently learning Rust and exploring Software Engineering
 - Interested in algorithms, AI/ML, DevOps & MLOps
 
 ## Languages & Tools
