@@ -10,7 +10,7 @@ Building BytePath and exploring algorithms, AI/ML, and software engineering.
 - Student interested in Computer Science
 - Focused on C++ and Competitive Programming
 - Building [BytePath](https://github.com/joaquinbaldeon/bytepath)
-- Currently learning Rust and exploring Software Engineering
+- Currently exploring Software Engineering
 - Interested in algorithms, AI/ML, DevOps & MLOps
 
 ## Languages & Tools
