@@ -16,7 +16,7 @@ Building BytePath and exploring algorithms, AI/ML, and software engineering.
 ## Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,rust,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,rust,git,github,linux" />
 </p>
 
 ## Featured Project
