@@ -12,6 +12,7 @@ Building BytePath and exploring algorithms, AI/ML, and software engineering.
 - Building [BytePath](https://github.com/joaquinbaldeon/bytepath)
 - Currently exploring Software Engineering
 - Interested in algorithms, AI/ML, DevOps & MLOps
+- I use Arch btw
 
 ## Languages & Tools
 
